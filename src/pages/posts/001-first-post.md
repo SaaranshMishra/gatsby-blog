@@ -3,6 +3,7 @@ title: "First Post - Intro"
 date: 2018-12-01 07:00:00
 author: "John Doe"
 path: "/first-post"
+image: ../../images/html.jpg
 ---
 
 Welcome to **Code Blog**. I hope you enjoy!

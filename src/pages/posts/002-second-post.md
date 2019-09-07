@@ -3,6 +3,7 @@ title: "Second Post - HTML"
 date: 2018-12-02 07:00:00
 author: "Jane Doe"
 path: "/second-post"
+image: ../../images/html.jpg
 ---
 
 Today, we will talk about HTML5.

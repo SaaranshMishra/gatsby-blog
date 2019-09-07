@@ -3,6 +3,7 @@ title: "Third Post - CSS"
 date: 2018-12-03 07:00:00
 author: "Jane Doe"
 path: "/third-post"
+image: ../../images/html.jpg
 ---
 
 Today, we will talk about CSS.
